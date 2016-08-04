@@ -1,0 +1,38 @@
+_repo: The-Club-of-Queer-Trades_1696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: "The Club of Queer Trades is a collection of stories by G. K. Chesterton\
+  \ first published in 1905.\nEach story in the collection is centered on a person\
+  \ who is making his living by some novel and extraordinary means (a \"queer trade\"\
+  , using the word \"queer\" in the sense of \"peculiar\"). To gain admittance one\
+  \ must have invented a unique means of earning a living and the subsequent trade\
+  \ being the main source of income.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1696'
+  wikidata: Q3221512
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Private investigators -- England -- London -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Club of Queer Trades
+url: http://www.gutenberg.org/ebooks/1696
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Club_des_m%C3%A9tiers_bizarres
+- https://en.wikipedia.org/wiki/The_Club_of_Queer_Trades
